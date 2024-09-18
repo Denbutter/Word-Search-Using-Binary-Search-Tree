@@ -5,7 +5,7 @@ A project that highlights optimal binary search trees for accessing keys in leas
 The optimal binary search tree is compared to the greedy method which favours words with high frequency.
 
 makefile instructions:
-	make - creates executable files P11, P12
+	make - creates executable files optimalBST, greedyBST
 	make clean - removes the executable files.
 
 
